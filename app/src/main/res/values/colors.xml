@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Background -->
+    <color name="bg_dark">#1C1C1E</color>
+    <color name="divider">#3A3A3C</color>
+
+    <!-- Text -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#8E8E93</color>
+
+    <!-- Digit buttons -->
+    <color name="btn_digit_bg">#2C2C2E</color>
+    <color name="btn_digit_text">#FFFFFF</color>
+    <color name="btn_digit_ripple">#48484A</color>
+
+    <!-- Operator buttons (+, -, ×, ÷) -->
+    <color name="btn_operator_bg">#FF9F0A</color>
+    <color name="btn_operator_text">#FFFFFF</color>
+    <color name="btn_operator_ripple">#FFBF47</color>
+
+    <!-- Function buttons (log, ln, DEL) -->
+    <color name="btn_function_bg">#3A3A3C</color>
+    <color name="btn_function_text">#FFFFFF</color>
+    <color name="btn_function_ripple">#545456</color>
+
+    <!-- Clear button accent -->
+    <color name="btn_clear_text">#FF453A</color>
+
+    <!-- Equals button -->
+    <color name="btn_equals_bg">#30D158</color>
+    <color name="btn_equals_text">#FFFFFF</color>
+    <color name="btn_equals_ripple">#5BE07A</color>
+
+    <!-- System / theme colours -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
