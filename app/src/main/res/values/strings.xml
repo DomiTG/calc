@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Calc</string>
+    <string name="btn_clear">C</string>
+    <string name="btn_delete">⌫</string>
+    <string name="btn_div">÷</string>
+    <string name="btn_mul">×</string>
+    <string name="btn_sub">−</string>
+    <string name="btn_add">+</string>
+    <string name="btn_equals">=</string>
+    <string name="btn_dot">.</string>
+    <string name="btn_log">log</string>
+    <string name="btn_ln">ln</string>
+    <string name="error">Error</string>
+</resources>
